@@ -1,0 +1,26 @@
+.body{
+    background-color: rgb(135, 20, 20);
+}
+.navbarNav1{
+    display: flex;
+    justify-content: flex-end;
+  }
+
+.nav-link:hover {
+    background-color: #6ddaf9;
+}
+header{
+    background-color: aqua;
+}
+.container{
+    border: 1px solid black;
+    border-radius: 1px;
+    border-style: double;
+
+}
+.row img{
+    width: 80px;
+  height: 80px;
+
+  position: static;
+}
