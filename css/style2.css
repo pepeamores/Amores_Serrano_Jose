@@ -1,5 +1,5 @@
 body {
-    background-image: url("../img/fondo.png");
+    background-image: url("../img/fondo4.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -9,7 +9,7 @@ body {
     background-color: #707070;
 }
 header{
-    background-image: url("../img/fondo.png");
+    background-image: url("../img/fondo4.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -29,6 +29,9 @@ header{
   height: 100px;
 
   position: static;
+}
+.col card{
+    background-color: aqua;
 }
 .navbar-nav{
     justify-content: center;
