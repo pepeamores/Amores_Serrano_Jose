@@ -1,5 +1,12 @@
 body {
-    background-image: url("../img/fondo4.png");
+    background-image: url("../img/fondo3.png");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg5{
+    background-image: url("../img/fondo3.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -9,7 +16,7 @@ body {
     background-color: #707070;
 }
 header{
-    background-image: url("../img/fondo4.png");
+    background-image: url("../img/fondo3.png");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
